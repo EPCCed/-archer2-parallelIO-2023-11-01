@@ -90,7 +90,9 @@ about MPI-IO locking mode "2"; the second was written afterwards.
     2-5 May 2022.
 
   * <a
-    href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/reports/parallel_IO_eurocc-2.pdf">EuroCC-UK Technical Report: Increasing the MPI-IO performance on ARCHER2</a>, S. Farr and D. Henty.
+    href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/raw/main/reports/parallel_IO_eurocc-2.pdf">Parallel
+    IO on ARCHER2</a>, EuroCC-UK Technical Report, S. Farr and
+    D. Henty.
 
 Slides and a video recording of the virtual tutorial containing
 detailed results of running benchio on ARCHER2 are available from the
