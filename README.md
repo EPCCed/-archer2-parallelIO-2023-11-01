@@ -79,6 +79,19 @@ for private study. </blockquote></p>
  * 16:00 - 16:30 : Q&A / Finish exercises
  * 16:30         : CLOSE
 
+Here are a couple of reports on parallel IO on ARCHER2 including
+results from benchio. The first report was written before we knew
+about MPI-IO locking mode "2"; the second was written afterwards.
+
+  * <a
+    href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/reports/parallelIO-archer2-cug2022-submitted.pdf">Performance
+    of Parallel IO on the 5860-node HPE Cray EX System ARCHER2,
+    D. Henty, presented at CUG2022, The Cray User Group, Monterey, CA,
+    2-5 May 2022.</a>
+
+  * <a
+    href="https://github.com/EPCCed/archer2-parallelIO-2023-11-01/reports/parallel_IO_eurocc-2.pdf">EuroCC-UK Technical Report: Increasing the MPI-IO performance on ARCHER2, S. Farr and D. Henty</a>
+
 Slides and a video recording of the virtual tutorial containing
 detailed results of running benchio on ARCHER2 are available from the
 [ARCHER2 course
